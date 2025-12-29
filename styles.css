@@ -1,0 +1,97 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* Center the whole app in the viewport */
+body {
+  display: flex;
+  justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically */
+  background: #e8e8e8;         /* just so you can see it */
+}
+
+/* Lay out the three panels in a row */
+.main-screen {
+  display: flex;
+  gap: 1rem;                /* space between columns */
+  align-items: stretch;     /* make them equal height */
+}
+
+/* Remove bullet points from store ul */
+
+ul {
+    list-style-type: none;
+}
+
+/* Vertically centering the next and previous buttons */
+#buttonContainer {
+  display: flex;
+  flex-direction: column;   /* stack buttons vertically */
+  justify-content: center;  /* center them vertically within the column */
+  align-items: center;      /* center them horizontally */
+}
+
+#buttonContainer button{
+    margin-bottom: 20px;
+}
+
+/* Basic panel styling */
+.panel {
+  background: #ececec;
+  padding: 1rem;
+  border-radius: 5px;
+  min-width: 200px;         /* tweak as needed */
+  min-height: 200px;
+}
+
+/* Aligning the return to starting zoom button in the store */
+#returnStartZoom {
+    display: flex;
+    justify-content: center;  /* center horizontally */
+    margin-top: 0.75rem;      /* optional: give it some space from the list */
+}
+
+/* Aligning the scoreboard within its container */
+#scoreContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.75rem;
+}
+
+/* scoreContainer colors based on player's score */
+
+#scoreContainer.score-positive {
+    color: green;
+}
+
+#scoreContainer.score-negative {
+    color: red;
+}
+
+#scoreContainer.score-zero {
+    color: black;
+}
+
+
+
+/* Make the map wider if needed */
+.map {
+  min-width: 400px;         /* or flex-grow: 2; */
+}
+
+/* Optional: responsive stacking on small screens */
+@media (max-width: 800px) {
+  body {
+    align-items: flex-start;
+  }
+  .app {
+    flex-direction: column;
+  }
+}
+
+#map { 
+    height: 500px;
+    width: 500px;
+}
+

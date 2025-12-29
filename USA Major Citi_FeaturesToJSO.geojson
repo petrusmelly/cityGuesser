@@ -1,0 +1,2957 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.303363218999948,
+                    32.377897462000078
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "NAME": "Montgomery",
+                "CLASS": "city",
+                "STATE_ABBR": "AL",
+                "STATE_FIPS": "01",
+                "PLACE_FIPS": "0151000",
+                "POPULATION": 200603,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1236.2,
+                "SQMI": 162.27000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.86790261599998,
+                    61.218701147000047
+                ]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "NAME": "Anchorage",
+                "CLASS": "municipality",
+                "STATE_ABBR": "AK",
+                "STATE_FIPS": "02",
+                "PLACE_FIPS": "0203000",
+                "POPULATION": 291247,
+                "POP_CLASS": 9,
+                "POP_SQMI": 168,
+                "SQMI": 1734.0599999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.40874778699998,
+                    58.301939784000069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "NAME": "Juneau",
+                "CLASS": "city and borough",
+                "STATE_ABBR": "AK",
+                "STATE_FIPS": "02",
+                "PLACE_FIPS": "0236400",
+                "POPULATION": 32255,
+                "POP_CLASS": 6,
+                "POP_SQMI": 11.5,
+                "SQMI": 2815.0900000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.86376199999995,
+                    33.294811860000038
+                ]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "NAME": "Chandler",
+                "CLASS": "city",
+                "STATE_ABBR": "AZ",
+                "STATE_FIPS": "04",
+                "PLACE_FIPS": "0412000",
+                "POPULATION": 275987,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4221.8999999999996,
+                "SQMI": 65.370000000000005,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.78716702599996,
+                    33.332892543000071
+                ]
+            },
+            "properties": {
+                "OBJECTID": 94,
+                "NAME": "Gilbert",
+                "CLASS": "town",
+                "STATE_ABBR": "AZ",
+                "STATE_FIPS": "04",
+                "PLACE_FIPS": "0427400",
+                "POPULATION": 267918,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3895.9000000000001,
+                "SQMI": 68.769999999999996,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.81632399999995,
+                    33.422707747000061
+                ]
+            },
+            "properties": {
+                "OBJECTID": 102,
+                "NAME": "Mesa",
+                "CLASS": "city",
+                "STATE_ABBR": "AZ",
+                "STATE_FIPS": "04",
+                "PLACE_FIPS": "0446000",
+                "POPULATION": 504258,
+                "POP_CLASS": 10,
+                "POP_SQMI": 3617.0999999999999,
+                "SQMI": 139.41,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07386809299999,
+                    33.446114308000062
+                ]
+            },
+            "properties": {
+                "OBJECTID": 110,
+                "NAME": "Phoenix",
+                "CLASS": "city",
+                "STATE_ABBR": "AZ",
+                "STATE_FIPS": "04",
+                "PLACE_FIPS": "0455000",
+                "POPULATION": 1608139,
+                "POP_CLASS": 10,
+                "POP_SQMI": 3097.8000000000002,
+                "SQMI": 519.12,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.96948741399996,
+                    32.219682818000024
+                ]
+            },
+            "properties": {
+                "OBJECTID": 131,
+                "NAME": "Tucson",
+                "CLASS": "city",
+                "STATE_ABBR": "AZ",
+                "STATE_FIPS": "04",
+                "PLACE_FIPS": "0477000",
+                "POPULATION": 542629,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2248.6999999999998,
+                "SQMI": 241.31,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.272886602999961,
+                    34.74709490500004
+                ]
+            },
+            "properties": {
+                "OBJECTID": 170,
+                "NAME": "Little Rock",
+                "CLASS": "city",
+                "STATE_ABBR": "AR",
+                "STATE_FIPS": "05",
+                "PLACE_FIPS": "0541000",
+                "POPULATION": 202591,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1647.0999999999999,
+                "SQMI": 123,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.93174949999997,
+                    33.825209222000069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 199,
+                "NAME": "Anaheim",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0602000",
+                "POPULATION": 346824,
+                "POP_CLASS": 9,
+                "POP_SQMI": 6816.5,
+                "SQMI": 50.880000000000003,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 217,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.01972798099996,
+                    35.366287166000063
+                ]
+            },
+            "properties": {
+                "OBJECTID": 217,
+                "NAME": "Bakersfield",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0603526",
+                "POPULATION": 403455,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2667.5999999999999,
+                "SQMI": 151.24000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06920857499995,
+                    32.637964378000049
+                ]
+            },
+            "properties": {
+                "OBJECTID": 264,
+                "NAME": "Chula Vista",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0613392",
+                "POPULATION": 275487,
+                "POP_CLASS": 9,
+                "POP_SQMI": 5526.3000000000002,
+                "SQMI": 49.850000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 344,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.79379499999999,
+                    36.742436069000064
+                ]
+            },
+            "properties": {
+                "OBJECTID": 344,
+                "NAME": "Fresno",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0627000",
+                "POPULATION": 542107,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4658.1000000000004,
+                "SQMI": 116.38,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 380,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.81566107399999,
+                    33.690644851000059
+                ]
+            },
+            "properties": {
+                "OBJECTID": 380,
+                "NAME": "Irvine",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0636770",
+                "POPULATION": 307670,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4667.3000000000002,
+                "SQMI": 65.920000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 428,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.18869056499994,
+                    33.771003778000079
+                ]
+            },
+            "properties": {
+                "OBJECTID": 428,
+                "NAME": "Long Beach",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0643000",
+                "POPULATION": 466742,
+                "POP_CLASS": 9,
+                "POP_SQMI": 9017.3999999999996,
+                "SQMI": 51.759999999999998,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 431,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.27058226399998,
+                    34.052789609000058
+                ]
+            },
+            "properties": {
+                "OBJECTID": 431,
+                "NAME": "Los Angeles",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0644000",
+                "POPULATION": 3898747,
+                "POP_CLASS": 10,
+                "POP_SQMI": 8239.7999999999993,
+                "SQMI": 473.16000000000003,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 485,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.29604295499996,
+                    37.810578093000061
+                ]
+            },
+            "properties": {
+                "OBJECTID": 485,
+                "NAME": "Oakland",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0653000",
+                "POPULATION": 440646,
+                "POP_CLASS": 9,
+                "POP_SQMI": 7829.5,
+                "SQMI": 56.280000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.39483594099994,
+                    33.938156812000045
+                ]
+            },
+            "properties": {
+                "OBJECTID": 547,
+                "NAME": "Riverside",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0662000",
+                "POPULATION": 314998,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3863.0999999999999,
+                "SQMI": 81.540000000000006,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 557,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46829893399996,
+                    38.56664113800008
+                ]
+            },
+            "properties": {
+                "OBJECTID": 557,
+                "NAME": "Sacramento",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0664000",
+                "POPULATION": 524943,
+                "POP_CLASS": 10,
+                "POP_SQMI": 5212.8999999999996,
+                "SQMI": 100.7,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 566,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.14556412399997,
+                    32.720328704000053
+                ]
+            },
+            "properties": {
+                "OBJECTID": 566,
+                "NAME": "San Diego",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0666000",
+                "POPULATION": 1386932,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4210,
+                "SQMI": 329.44,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44244956899996,
+                    37.766923554000073
+                ]
+            },
+            "properties": {
+                "OBJECTID": 570,
+                "NAME": "San Francisco",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0667000",
+                "POPULATION": 873965,
+                "POP_CLASS": 10,
+                "POP_SQMI": 18465.299999999999,
+                "SQMI": 47.329999999999998,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 574,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.88641492299996,
+                    37.339413974000024
+                ]
+            },
+            "properties": {
+                "OBJECTID": 574,
+                "NAME": "San Jose",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0668000",
+                "POPULATION": 1013240,
+                "POP_CLASS": 10,
+                "POP_SQMI": 5616.6000000000004,
+                "SQMI": 180.40000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 585,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.88186397099997,
+                    33.73662414000006
+                ]
+            },
+            "properties": {
+                "OBJECTID": 585,
+                "NAME": "Santa Ana",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0669000",
+                "POPULATION": 310227,
+                "POP_CLASS": 9,
+                "POP_SQMI": 11334.6,
+                "SQMI": 27.370000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 619,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.30187749999999,
+                    37.96628634700005
+                ]
+            },
+            "properties": {
+                "OBJECTID": 619,
+                "NAME": "Stockton",
+                "CLASS": "city",
+                "STATE_ABBR": "CA",
+                "STATE_FIPS": "06",
+                "PLACE_FIPS": "0675000",
+                "POPULATION": 320804,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4914.3000000000002,
+                "SQMI": 65.280000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 674,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.78718624999999,
+                    39.698891651000054
+                ]
+            },
+            "properties": {
+                "OBJECTID": 674,
+                "NAME": "Aurora",
+                "CLASS": "city",
+                "STATE_ABBR": "CO",
+                "STATE_FIPS": "08",
+                "PLACE_FIPS": "0804000",
+                "POPULATION": 386261,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2403.5,
+                "SQMI": 160.71000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.81507550299995,
+                    38.829651349000073
+                ]
+            },
+            "properties": {
+                "OBJECTID": 686,
+                "NAME": "Colorado Springs",
+                "CLASS": "city",
+                "STATE_ABBR": "CO",
+                "STATE_FIPS": "08",
+                "PLACE_FIPS": "0816000",
+                "POPULATION": 478961,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2446.6999999999998,
+                "SQMI": 195.75999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 690,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98252074999999,
+                    39.729371119000064
+                ]
+            },
+            "properties": {
+                "OBJECTID": 690,
+                "NAME": "Denver",
+                "CLASS": "city",
+                "STATE_ABBR": "CO",
+                "STATE_FIPS": "08",
+                "PLACE_FIPS": "0820000",
+                "POPULATION": 715522,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4624.3000000000002,
+                "SQMI": 154.72999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 741,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.683398432999979,
+                    41.766067274000079
+                ]
+            },
+            "properties": {
+                "OBJECTID": 741,
+                "NAME": "Hartford",
+                "CLASS": "city",
+                "STATE_ABBR": "CT",
+                "STATE_FIPS": "09",
+                "PLACE_FIPS": "0937000",
+                "POPULATION": 121054,
+                "POP_CLASS": 8,
+                "POP_SQMI": 6702.8999999999996,
+                "SQMI": 18.059999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 768,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.521187631999965,
+                    39.160732623000058
+                ]
+            },
+            "properties": {
+                "OBJECTID": 768,
+                "NAME": "Dover",
+                "CLASS": "city",
+                "STATE_ABBR": "DE",
+                "STATE_FIPS": "10",
+                "PLACE_FIPS": "1021200",
+                "POPULATION": 39403,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1643.8,
+                "SQMI": 23.969999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 776,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.027644724999959,
+                    38.889268860000072
+                ]
+            },
+            "properties": {
+                "OBJECTID": 776,
+                "NAME": "Washington",
+                "CLASS": "city",
+                "STATE_ABBR": "DC",
+                "STATE_FIPS": "11",
+                "PLACE_FIPS": "1150000",
+                "POPULATION": 689545,
+                "POP_CLASS": 10,
+                "POP_SQMI": 11179.4,
+                "SQMI": 61.68,
+                "CAPITAL": "National"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 912,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.655654384999934,
+                    30.332172736000075
+                ]
+            },
+            "properties": {
+                "OBJECTID": 912,
+                "NAME": "Jacksonville",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1235000",
+                "POPULATION": 949611,
+                "POP_CLASS": 10,
+                "POP_SQMI": 1253.5999999999999,
+                "SQMI": 757.48000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 957,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.220932498999957,
+                    25.760860335000075
+                ]
+            },
+            "properties": {
+                "OBJECTID": 957,
+                "NAME": "Miami",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1245000",
+                "POPULATION": 442241,
+                "POP_CLASS": 9,
+                "POP_SQMI": 12203.1,
+                "SQMI": 36.240000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 990,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.372287605999986,
+                    28.53723599500006
+                ]
+            },
+            "properties": {
+                "OBJECTID": 990,
+                "NAME": "Orlando",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1253000",
+                "POPULATION": 307573,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2587.3000000000002,
+                "SQMI": 118.88,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1035,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.675223498999969,
+                    27.757094571000039
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1035,
+                "NAME": "St. Petersburg",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1263000",
+                "POPULATION": 258308,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4026,
+                "SQMI": 64.159999999999997,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1058,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.277568901999985,
+                    30.434296139000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1058,
+                "NAME": "Tallahassee",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1270600",
+                "POPULATION": 196169,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1890.2,
+                "SQMI": 103.78,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1061,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.455712448999975,
+                    27.949506156000041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1061,
+                "NAME": "Tampa",
+                "CLASS": "city",
+                "STATE_ABBR": "FL",
+                "STATE_FIPS": "12",
+                "PLACE_FIPS": "1271000",
+                "POPULATION": 384959,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3288.8000000000002,
+                "SQMI": 117.05,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.394919155999958,
+                    33.748638591000031
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1111,
+                "NAME": "Atlanta",
+                "CLASS": "city",
+                "STATE_ABBR": "GA",
+                "STATE_FIPS": "13",
+                "PLACE_FIPS": "1304000",
+                "POPULATION": 498715,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3658.6999999999998,
+                "SQMI": 136.31,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1224,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.84272340999996,
+                    21.330784386000062
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1224,
+                "NAME": "Honolulu",
+                "CLASS": "Census Designated Place",
+                "STATE_ABBR": "HI",
+                "STATE_FIPS": "15",
+                "PLACE_FIPS": "1571550",
+                "POPULATION": 350964,
+                "POP_CLASS": 9,
+                "POP_SQMI": 5767.6999999999998,
+                "SQMI": 60.850000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1233,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.23011021199994,
+                    43.599014809000039
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1233,
+                "NAME": "Boise City",
+                "CLASS": "city",
+                "STATE_ABBR": "ID",
+                "STATE_FIPS": "16",
+                "PLACE_FIPS": "1608830",
+                "POPULATION": 235684,
+                "POP_CLASS": 8,
+                "POP_SQMI": 2772.8000000000002,
+                "SQMI": 85,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1348,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.647146386999964,
+                    41.756488061000027
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1348,
+                "NAME": "Chicago",
+                "CLASS": "city",
+                "STATE_ABBR": "IL",
+                "STATE_FIPS": "17",
+                "PLACE_FIPS": "1714000",
+                "POPULATION": 2746388,
+                "POP_CLASS": 10,
+                "POP_SQMI": 11893.200000000001,
+                "SQMI": 230.91999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1497,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.648364320999974,
+                    39.799679056000059
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1497,
+                "NAME": "Springfield",
+                "CLASS": "city",
+                "STATE_ABBR": "IL",
+                "STATE_FIPS": "17",
+                "PLACE_FIPS": "1772000",
+                "POPULATION": 114394,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1696.2,
+                "SQMI": 67.439999999999998,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1550,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.143621283999948,
+                    41.088504255000032
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1550,
+                "NAME": "Fort Wayne",
+                "CLASS": "city",
+                "STATE_ABBR": "IN",
+                "STATE_FIPS": "18",
+                "PLACE_FIPS": "1825000",
+                "POPULATION": 263886,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2378.1999999999998,
+                "SQMI": 110.95999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1565,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.146340941999938,
+                    39.777099150000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1565,
+                "NAME": "Indianapolis city (balance)",
+                "CLASS": "unknown",
+                "STATE_ABBR": "IN",
+                "STATE_FIPS": "18",
+                "PLACE_FIPS": "1836003",
+                "POPULATION": 887642,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2412.5,
+                "SQMI": 367.93000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1621,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.615750639999987,
+                    41.588569490000054
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1621,
+                "NAME": "Des Moines",
+                "CLASS": "city",
+                "STATE_ABBR": "IA",
+                "STATE_FIPS": "19",
+                "PLACE_FIPS": "1921000",
+                "POPULATION": 214133,
+                "POP_CLASS": 8,
+                "POP_SQMI": 2362.5,
+                "SQMI": 90.640000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1679,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.696584126999937,
+                    39.038262073000055
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1679,
+                "NAME": "Topeka",
+                "CLASS": "city",
+                "STATE_ABBR": "KS",
+                "STATE_FIPS": "20",
+                "PLACE_FIPS": "2071000",
+                "POPULATION": 126587,
+                "POP_CLASS": 8,
+                "POP_SQMI": 2017,
+                "SQMI": 62.759999999999998,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1680,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.342267255999957,
+                    37.691344486000048
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1680,
+                "NAME": "Wichita",
+                "CLASS": "city",
+                "STATE_ABBR": "KS",
+                "STATE_FIPS": "20",
+                "PLACE_FIPS": "2079000",
+                "POPULATION": 397532,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2387.3000000000002,
+                "SQMI": 166.52000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1695,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.865630499999952,
+                    38.195413600000052
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1695,
+                "NAME": "Frankfort",
+                "CLASS": "city",
+                "STATE_ABBR": "KY",
+                "STATE_FIPS": "21",
+                "PLACE_FIPS": "2128900",
+                "POPULATION": 28602,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1897.9000000000001,
+                "SQMI": 15.07,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1703,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.498174995999989,
+                    38.049409193000031
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1703,
+                "NAME": "Lexington-Fayette",
+                "CLASS": "unknown",
+                "STATE_ABBR": "KY",
+                "STATE_FIPS": "21",
+                "PLACE_FIPS": "2146027",
+                "POPULATION": 322570,
+                "POP_CLASS": 9,
+                "POP_SQMI": 1129.7,
+                "SQMI": 285.54000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1704,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.676006499999971,
+                    38.131434184000057
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1704,
+                "NAME": "Louisville/Jefferson County metro government (balance)",
+                "CLASS": "unknown",
+                "STATE_ABBR": "KY",
+                "STATE_FIPS": "21",
+                "PLACE_FIPS": "2148006",
+                "POPULATION": 386884,
+                "POP_CLASS": 9,
+                "POP_SQMI": 1406.0999999999999,
+                "SQMI": 275.13999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1726,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.184349862999966,
+                    30.441053274000069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1726,
+                "NAME": "Baton Rouge",
+                "CLASS": "city",
+                "STATE_ABBR": "LA",
+                "STATE_FIPS": "22",
+                "PLACE_FIPS": "2205000",
+                "POPULATION": 227470,
+                "POP_CLASS": 8,
+                "POP_SQMI": 2569.6999999999998,
+                "SQMI": 88.519999999999996,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1762,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.075212417999978,
+                    29.953202926000074
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1762,
+                "NAME": "New Orleans",
+                "CLASS": "city",
+                "STATE_ABBR": "LA",
+                "STATE_FIPS": "22",
+                "PLACE_FIPS": "2255000",
+                "POPULATION": 383997,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2094.8000000000002,
+                "SQMI": 183.31,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1780,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.776658635999979,
+                    44.316323798000042
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1780,
+                "NAME": "Augusta",
+                "CLASS": "city",
+                "STATE_ABBR": "ME",
+                "STATE_FIPS": "23",
+                "PLACE_FIPS": "2302100",
+                "POPULATION": 18899,
+                "POP_CLASS": 6,
+                "POP_SQMI": 325.60000000000002,
+                "SQMI": 58.039999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1818,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.505954999999972,
+                    38.957873590000077
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1818,
+                "NAME": "Annapolis",
+                "CLASS": "city",
+                "STATE_ABBR": "MD",
+                "STATE_FIPS": "24",
+                "PLACE_FIPS": "2401600",
+                "POPULATION": 40812,
+                "POP_CLASS": 6,
+                "POP_SQMI": 5660.5,
+                "SQMI": 7.21,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1824,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.607506287999968,
+                    39.290172149000057
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1824,
+                "NAME": "Baltimore",
+                "CLASS": "city",
+                "STATE_ABBR": "MD",
+                "STATE_FIPS": "24",
+                "PLACE_FIPS": "2404000",
+                "POPULATION": 585708,
+                "POP_CLASS": 10,
+                "POP_SQMI": 7200.6999999999998,
+                "SQMI": 81.340000000000003,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1945,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05671289299994,
+                    42.359593275000066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1945,
+                "NAME": "Boston",
+                "CLASS": "city",
+                "STATE_ABBR": "MA",
+                "STATE_FIPS": "25",
+                "PLACE_FIPS": "2507000",
+                "POPULATION": 675647,
+                "POP_CLASS": 10,
+                "POP_SQMI": 13828.200000000001,
+                "SQMI": 48.859999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2039,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.065568970999948,
+                    42.331993813000054
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2039,
+                "NAME": "Detroit",
+                "CLASS": "city",
+                "STATE_ABBR": "MI",
+                "STATE_FIPS": "26",
+                "PLACE_FIPS": "2622000",
+                "POPULATION": 639111,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4600.1999999999998,
+                "SQMI": 138.93000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2070,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.556714301999989,
+                    42.716685010000049
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2070,
+                "NAME": "Lansing",
+                "CLASS": "city",
+                "STATE_ABBR": "MI",
+                "STATE_FIPS": "26",
+                "PLACE_FIPS": "2646000",
+                "POPULATION": 112644,
+                "POP_CLASS": 8,
+                "POP_SQMI": 2831.6999999999998,
+                "SQMI": 39.780000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2172,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.267834477999941,
+                    44.963518803000056
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2172,
+                "NAME": "Minneapolis",
+                "CLASS": "city",
+                "STATE_ABBR": "MN",
+                "STATE_FIPS": "27",
+                "PLACE_FIPS": "2743000",
+                "POPULATION": 429954,
+                "POP_CLASS": 9,
+                "POP_SQMI": 7476.1999999999998,
+                "SQMI": 57.509999999999998,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2199,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.106035499999962,
+                    44.955807647000029
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2199,
+                "NAME": "St. Paul",
+                "CLASS": "city",
+                "STATE_ABBR": "MN",
+                "STATE_FIPS": "27",
+                "PLACE_FIPS": "2758000",
+                "POPULATION": 311527,
+                "POP_CLASS": 9,
+                "POP_SQMI": 5553.1000000000004,
+                "SQMI": 56.100000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2236,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.179438570999935,
+                    32.296228004000056
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2236,
+                "NAME": "Jackson",
+                "CLASS": "city",
+                "STATE_ABBR": "MS",
+                "STATE_FIPS": "28",
+                "PLACE_FIPS": "2836000",
+                "POPULATION": 153701,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1350,
+                "SQMI": 113.84999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2326,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.175664089999941,
+                    38.567743869000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2326,
+                "NAME": "Jefferson City",
+                "CLASS": "city",
+                "STATE_ABBR": "MO",
+                "STATE_FIPS": "29",
+                "PLACE_FIPS": "2937000",
+                "POPULATION": 43228,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1148.2,
+                "SQMI": 37.649999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2329,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.588092696999979,
+                    39.102539819000071
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2329,
+                "NAME": "Kansas City",
+                "CLASS": "city",
+                "STATE_ABBR": "MO",
+                "STATE_FIPS": "29",
+                "PLACE_FIPS": "2938000",
+                "POPULATION": 508090,
+                "POP_CLASS": 10,
+                "POP_SQMI": 1593.8,
+                "SQMI": 318.79000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2360,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.245176108999942,
+                    38.635771074000047
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2360,
+                "NAME": "St. Louis",
+                "CLASS": "city",
+                "STATE_ABBR": "MO",
+                "STATE_FIPS": "29",
+                "PLACE_FIPS": "2965000",
+                "POPULATION": 301578,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4555.6000000000004,
+                "SQMI": 66.200000000000003,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2381,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.01912620099995,
+                    46.596155761000034
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2381,
+                "NAME": "Helena",
+                "CLASS": "city",
+                "STATE_ABBR": "MT",
+                "STATE_FIPS": "30",
+                "PLACE_FIPS": "3035600",
+                "POPULATION": 32091,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1903.4000000000001,
+                "SQMI": 16.859999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2394,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.680055479999965,
+                    40.810313543000063
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2394,
+                "NAME": "Lincoln",
+                "CLASS": "city",
+                "STATE_ABBR": "NE",
+                "STATE_FIPS": "31",
+                "PLACE_FIPS": "3128000",
+                "POPULATION": 291082,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2938.6999999999998,
+                "SQMI": 99.049999999999997,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2397,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.969470679999972,
+                    41.264947588000041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2397,
+                "NAME": "Omaha",
+                "CLASS": "city",
+                "STATE_ABBR": "NE",
+                "STATE_FIPS": "31",
+                "PLACE_FIPS": "3137000",
+                "POPULATION": 486051,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3347.9000000000001,
+                "SQMI": 145.18000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2402,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.76252544799996,
+                    39.16270392000007
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2402,
+                "NAME": "Carson City",
+                "CLASS": "city",
+                "STATE_ABBR": "NV",
+                "STATE_FIPS": "32",
+                "PLACE_FIPS": "3209700",
+                "POPULATION": 58639,
+                "POP_CLASS": 7,
+                "POP_SQMI": 373.19999999999999,
+                "SQMI": 157.12,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2407,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.98247147799998,
+                    36.032688540000038
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2407,
+                "NAME": "Henderson",
+                "CLASS": "city",
+                "STATE_ABBR": "NV",
+                "STATE_FIPS": "32",
+                "PLACE_FIPS": "3231900",
+                "POPULATION": 317610,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2976.0999999999999,
+                "SQMI": 106.72,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2408,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.13514597599999,
+                    36.176476440000044
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2408,
+                "NAME": "Las Vegas",
+                "CLASS": "city",
+                "STATE_ABBR": "NV",
+                "STATE_FIPS": "32",
+                "PLACE_FIPS": "3240000",
+                "POPULATION": 641903,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4524.3000000000002,
+                "SQMI": 141.88,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2410,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.13333949999998,
+                    36.223081085000047
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2410,
+                "NAME": "North Las Vegas",
+                "CLASS": "city",
+                "STATE_ABBR": "NV",
+                "STATE_FIPS": "32",
+                "PLACE_FIPS": "3251800",
+                "POPULATION": 262527,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2590.8000000000002,
+                "SQMI": 101.33,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2413,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.82930698899997,
+                    39.53357003900004
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2413,
+                "NAME": "Reno",
+                "CLASS": "city",
+                "STATE_ABBR": "NV",
+                "STATE_FIPS": "32",
+                "PLACE_FIPS": "3260600",
+                "POPULATION": 264165,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2366.9000000000001,
+                "SQMI": 111.61,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2425,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53568076199997,
+                    43.202601446000074
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2425,
+                "NAME": "Concord",
+                "CLASS": "city",
+                "STATE_ABBR": "NH",
+                "STATE_FIPS": "33",
+                "PLACE_FIPS": "3314200",
+                "POPULATION": 43976,
+                "POP_CLASS": 6,
+                "POP_SQMI": 654.5,
+                "SQMI": 67.189999999999998,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2492,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.068925536999984,
+                    40.718854159000045
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2492,
+                "NAME": "Jersey City",
+                "CLASS": "city",
+                "STATE_ABBR": "NJ",
+                "STATE_FIPS": "34",
+                "PLACE_FIPS": "3436000",
+                "POPULATION": 292449,
+                "POP_CLASS": 9,
+                "POP_SQMI": 19746.700000000001,
+                "SQMI": 14.81,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2512,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.184760499999982,
+                    40.731353094000042
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2512,
+                "NAME": "Newark",
+                "CLASS": "city",
+                "STATE_ABBR": "NJ",
+                "STATE_FIPS": "34",
+                "PLACE_FIPS": "3451000",
+                "POPULATION": 311549,
+                "POP_CLASS": 9,
+                "POP_SQMI": 12847.4,
+                "SQMI": 24.25,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2562,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.763994325999988,
+                    40.223728349000055
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2562,
+                "NAME": "Trenton",
+                "CLASS": "city",
+                "STATE_ABBR": "NJ",
+                "STATE_FIPS": "34",
+                "PLACE_FIPS": "3474000",
+                "POPULATION": 90871,
+                "POP_CLASS": 7,
+                "POP_SQMI": 11081.799999999999,
+                "SQMI": 8.1999999999999993,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2577,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64943225499997,
+                    35.093261324000025
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2577,
+                "NAME": "Albuquerque",
+                "CLASS": "city",
+                "STATE_ABBR": "NM",
+                "STATE_FIPS": "35",
+                "PLACE_FIPS": "3502000",
+                "POPULATION": 564559,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2987.9000000000001,
+                "SQMI": 188.94999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2596,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.94683024999995,
+                    35.681341986000064
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2596,
+                "NAME": "Santa Fe",
+                "CLASS": "city",
+                "STATE_ABBR": "NM",
+                "STATE_FIPS": "35",
+                "PLACE_FIPS": "3570500",
+                "POPULATION": 87505,
+                "POP_CLASS": 7,
+                "POP_SQMI": 1671.9000000000001,
+                "SQMI": 52.340000000000003,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2600,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.755874236999944,
+                    42.651632114000051
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2600,
+                "NAME": "Albany",
+                "CLASS": "city",
+                "STATE_ABBR": "NY",
+                "STATE_FIPS": "36",
+                "PLACE_FIPS": "3601000",
+                "POPULATION": 99224,
+                "POP_CLASS": 7,
+                "POP_SQMI": 4522.5,
+                "SQMI": 21.940000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2614,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.877876222999987,
+                    42.887237378000066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2614,
+                "NAME": "Buffalo",
+                "CLASS": "city",
+                "STATE_ABBR": "NY",
+                "STATE_FIPS": "36",
+                "PLACE_FIPS": "3611000",
+                "POPULATION": 278349,
+                "POP_CLASS": 9,
+                "POP_SQMI": 6854.1999999999998,
+                "SQMI": 40.609999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2713,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.010131781999974,
+                    40.710570562000044
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2713,
+                "NAME": "New York",
+                "CLASS": "city",
+                "STATE_ABBR": "NY",
+                "STATE_FIPS": "36",
+                "PLACE_FIPS": "3651000",
+                "POPULATION": 8804190,
+                "POP_CLASS": 10,
+                "POP_SQMI": 29255.599999999999,
+                "SQMI": 300.94,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2839,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.830255054999952,
+                    35.207874232000052
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2839,
+                "NAME": "Charlotte",
+                "CLASS": "city",
+                "STATE_ABBR": "NC",
+                "STATE_FIPS": "37",
+                "PLACE_FIPS": "3712000",
+                "POPULATION": 874579,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2818.9000000000001,
+                "SQMI": 310.25999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2845,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.889344991999963,
+                    35.994596434000073
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2845,
+                "NAME": "Durham",
+                "CLASS": "city",
+                "STATE_ABBR": "NC",
+                "STATE_FIPS": "37",
+                "PLACE_FIPS": "3719000",
+                "POPULATION": 283506,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2495.4000000000001,
+                "SQMI": 113.61,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2854,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.799317006999956,
+                    36.067405443000041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2854,
+                "NAME": "Greensboro",
+                "CLASS": "city",
+                "STATE_ABBR": "NC",
+                "STATE_FIPS": "37",
+                "PLACE_FIPS": "3728000",
+                "POPULATION": 299035,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2218,
+                "SQMI": 134.81999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2893,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.635394856999937,
+                    35.785342421000053
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2893,
+                "NAME": "Raleigh",
+                "CLASS": "city",
+                "STATE_ABBR": "NC",
+                "STATE_FIPS": "37",
+                "PLACE_FIPS": "3755000",
+                "POPULATION": 467665,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3155.4000000000001,
+                "SQMI": 148.21000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2914,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.76952446699994,
+                    46.812470112000028
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2914,
+                "NAME": "Bismarck",
+                "CLASS": "city",
+                "STATE_ABBR": "ND",
+                "STATE_FIPS": "38",
+                "PLACE_FIPS": "3807200",
+                "POPULATION": 73622,
+                "POP_CLASS": 7,
+                "POP_SQMI": 2092.6999999999998,
+                "SQMI": 35.18,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2956,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51092328499999,
+                    39.107090690000064
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2956,
+                "NAME": "Cincinnati",
+                "CLASS": "city",
+                "STATE_ABBR": "OH",
+                "STATE_FIPS": "39",
+                "PLACE_FIPS": "3915000",
+                "POPULATION": 309317,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3888.3000000000002,
+                "SQMI": 79.549999999999997,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2959,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.687303356999962,
+                    41.505176369000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2959,
+                "NAME": "Cleveland",
+                "CLASS": "city",
+                "STATE_ABBR": "OH",
+                "STATE_FIPS": "39",
+                "PLACE_FIPS": "3916000",
+                "POPULATION": 372624,
+                "POP_CLASS": 9,
+                "POP_SQMI": 4786.3999999999996,
+                "SQMI": 77.849999999999994,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2961,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.988930284999981,
+                    39.988404529000036
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2961,
+                "NAME": "Columbus",
+                "CLASS": "city",
+                "STATE_ABBR": "OH",
+                "STATE_FIPS": "39",
+                "PLACE_FIPS": "3918000",
+                "POPULATION": 905748,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4009.5,
+                "SQMI": 225.90000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3078,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.53383878599999,
+                    41.652288127000077
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3078,
+                "NAME": "Toledo",
+                "CLASS": "city",
+                "STATE_ABBR": "OH",
+                "STATE_FIPS": "39",
+                "PLACE_FIPS": "3977000",
+                "POPULATION": 270871,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3354,
+                "SQMI": 80.760000000000005,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.519156401999965,
+                    35.467678231000036
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3137,
+                "NAME": "Oklahoma City",
+                "CLASS": "city",
+                "STATE_ABBR": "OK",
+                "STATE_FIPS": "40",
+                "PLACE_FIPS": "4055000",
+                "POPULATION": 681054,
+                "POP_CLASS": 10,
+                "POP_SQMI": 1097.5999999999999,
+                "SQMI": 620.49000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.99141579999997,
+                    36.150342702000046
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3146,
+                "NAME": "Tulsa",
+                "CLASS": "city",
+                "STATE_ABBR": "OK",
+                "STATE_FIPS": "40",
+                "PLACE_FIPS": "4075000",
+                "POPULATION": 413066,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2048.6999999999998,
+                "SQMI": 201.62,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64981563099997,
+                    45.51601557400005
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3191,
+                "NAME": "Portland",
+                "CLASS": "city",
+                "STATE_ABBR": "OR",
+                "STATE_FIPS": "41",
+                "PLACE_FIPS": "4159000",
+                "POPULATION": 652503,
+                "POP_CLASS": 10,
+                "POP_SQMI": 4804.5,
+                "SQMI": 135.81,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3195,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02461497699994,
+                    44.923230090000061
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3195,
+                "NAME": "Salem",
+                "CLASS": "city",
+                "STATE_ABBR": "OR",
+                "STATE_FIPS": "41",
+                "PLACE_FIPS": "4164900",
+                "POPULATION": 175535,
+                "POP_CLASS": 8,
+                "POP_SQMI": 3556.9000000000001,
+                "SQMI": 49.350000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3237,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.880677999999989,
+                    40.264066154000034
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3237,
+                "NAME": "Harrisburg",
+                "CLASS": "city",
+                "STATE_ABBR": "PA",
+                "STATE_FIPS": "42",
+                "PLACE_FIPS": "4232800",
+                "POPULATION": 50099,
+                "POP_CLASS": 7,
+                "POP_SQMI": 4224.1999999999998,
+                "SQMI": 11.859999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3265,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.160985428999936,
+                    39.951358504000041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3265,
+                "NAME": "Philadelphia",
+                "CLASS": "city",
+                "STATE_ABBR": "PA",
+                "STATE_FIPS": "42",
+                "PLACE_FIPS": "4260000",
+                "POPULATION": 1603797,
+                "POP_CLASS": 10,
+                "POP_SQMI": 11824.799999999999,
+                "SQMI": 135.63,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3267,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.976320424999983,
+                    40.439458566000042
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3267,
+                "NAME": "Pittsburgh",
+                "CLASS": "city",
+                "STATE_ABBR": "PA",
+                "STATE_FIPS": "42",
+                "PLACE_FIPS": "4261000",
+                "POPULATION": 302971,
+                "POP_CLASS": 9,
+                "POP_SQMI": 5192.3000000000002,
+                "SQMI": 58.350000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3328,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.42188957999997,
+                    41.823534774000052
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3328,
+                "NAME": "Providence",
+                "CLASS": "city",
+                "STATE_ABBR": "RI",
+                "STATE_FIPS": "44",
+                "PLACE_FIPS": "4459000",
+                "POPULATION": 190934,
+                "POP_CLASS": 8,
+                "POP_SQMI": 10150.700000000001,
+                "SQMI": 18.809999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3341,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.043497780999985,
+                    33.999733827000057
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3341,
+                "NAME": "Columbia",
+                "CLASS": "city",
+                "STATE_ABBR": "SC",
+                "STATE_FIPS": "45",
+                "PLACE_FIPS": "4516000",
+                "POPULATION": 136632,
+                "POP_CLASS": 8,
+                "POP_SQMI": 978.39999999999998,
+                "SQMI": 139.65000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3388,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34694631199994,
+                    44.366582814000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3388,
+                "NAME": "Pierre",
+                "CLASS": "city",
+                "STATE_ABBR": "SD",
+                "STATE_FIPS": "46",
+                "PLACE_FIPS": "4649600",
+                "POPULATION": 14091,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1079.8,
+                "SQMI": 13.050000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3432,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.042194460999951,
+                    35.141042269000025
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3432,
+                "NAME": "Memphis",
+                "CLASS": "city",
+                "STATE_ABBR": "TN",
+                "STATE_FIPS": "47",
+                "PLACE_FIPS": "4748000",
+                "POPULATION": 633104,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2078.3000000000002,
+                "SQMI": 304.62,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3438,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.777307916999973,
+                    36.166471098000045
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3438,
+                "NAME": "Nashville",
+                "CLASS": "unknown",
+                "STATE_ABBR": "TN",
+                "STATE_FIPS": "47",
+                "PLACE_FIPS": "4752006",
+                "POPULATION": 689447,
+                "POP_CLASS": 10,
+                "POP_SQMI": 1385.9000000000001,
+                "SQMI": 497.47000000000003,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3464,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.106337971999949,
+                    32.733293928000023
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3464,
+                "NAME": "Arlington",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4804000",
+                "POPULATION": 394266,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3963.6999999999998,
+                "SQMI": 99.469999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3467,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.741588819999947,
+                    30.266944569000032
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3467,
+                "NAME": "Austin",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4805000",
+                "POPULATION": 961855,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2945.9000000000001,
+                "SQMI": 326.50999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3507,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.402771345999952,
+                    27.792643705000046
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3507,
+                "NAME": "Corpus Christi",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4817000",
+                "POPULATION": 317863,
+                "POP_CLASS": 9,
+                "POP_SQMI": 1874.2,
+                "SQMI": 169.59999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3510,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795758947999957,
+                    32.778646237000032
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3510,
+                "NAME": "Dallas",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4819000",
+                "POPULATION": 1304379,
+                "POP_CLASS": 10,
+                "POP_SQMI": 3401.8000000000002,
+                "SQMI": 383.44,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3523,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.48717612899998,
+                    31.757603213000039
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3523,
+                "NAME": "El Paso",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4824000",
+                "POPULATION": 678815,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2618.5999999999999,
+                "SQMI": 259.23000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3531,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.313051499999972,
+                    32.746830808000027
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3531,
+                "NAME": "Fort Worth",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4827000",
+                "POPULATION": 918915,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2584.5,
+                "SQMI": 355.55000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3558,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.367506985999967,
+                    29.758761427000024
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3558,
+                "NAME": "Houston",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4835000",
+                "POPULATION": 2304580,
+                "POP_CLASS": 10,
+                "POP_SQMI": 3472,
+                "SQMI": 663.76999999999998,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3563,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.953633959999991,
+                    32.811718590000055
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3563,
+                "NAME": "Irving",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4837000",
+                "POPULATION": 256684,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3776.4000000000001,
+                "SQMI": 67.969999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3579,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.488054872999953,
+                    27.547279789000072
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3579,
+                "NAME": "Laredo",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4841464",
+                "POPULATION": 255205,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2363.9000000000001,
+                "SQMI": 107.95999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3589,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.84375040299994,
+                    33.584393352000063
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3589,
+                "NAME": "Lubbock",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4845000",
+                "POPULATION": 257141,
+                "POP_CLASS": 9,
+                "POP_SQMI": 1892.8,
+                "SQMI": 135.84999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3621,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.695385742999974,
+                    33.019418378000069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3621,
+                "NAME": "Plano",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4858016",
+                "POPULATION": 285494,
+                "POP_CLASS": 9,
+                "POP_SQMI": 3963,
+                "SQMI": 72.040000000000006,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3642,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.492499793999968,
+                    29.423535961000027
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3642,
+                "NAME": "San Antonio",
+                "CLASS": "city",
+                "STATE_ABBR": "TX",
+                "STATE_FIPS": "48",
+                "PLACE_FIPS": "4865000",
+                "POPULATION": 1434625,
+                "POP_CLASS": 10,
+                "POP_SQMI": 2842.9000000000001,
+                "SQMI": 504.63,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3728,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.89075057199994,
+                    40.761205120000056
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3728,
+                "NAME": "Salt Lake City",
+                "CLASS": "city",
+                "STATE_ABBR": "UT",
+                "STATE_FIPS": "49",
+                "PLACE_FIPS": "4967000",
+                "POPULATION": 199723,
+                "POP_CLASS": 8,
+                "POP_SQMI": 1802.4000000000001,
+                "SQMI": 110.81,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3748,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.571741987999985,
+                    44.265849158000037
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3748,
+                "NAME": "Montpelier",
+                "CLASS": "city",
+                "STATE_ABBR": "VT",
+                "STATE_FIPS": "50",
+                "PLACE_FIPS": "5046000",
+                "POPULATION": 8074,
+                "POP_CLASS": 5,
+                "POP_SQMI": 787.70000000000005,
+                "SQMI": 10.25,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3893,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436280955999962,
+                    37.542287487000067
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3893,
+                "NAME": "Richmond",
+                "CLASS": "city",
+                "STATE_ABBR": "VA",
+                "STATE_FIPS": "51",
+                "PLACE_FIPS": "5167000",
+                "POPULATION": 226610,
+                "POP_CLASS": 8,
+                "POP_SQMI": 3621.6999999999998,
+                "SQMI": 62.57,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3908,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.061003357999937,
+                    36.751894203000063
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3908,
+                "NAME": "Virginia Beach",
+                "CLASS": "city",
+                "STATE_ABBR": "VA",
+                "STATE_FIPS": "51",
+                "PLACE_FIPS": "5182000",
+                "POPULATION": 459470,
+                "POP_CLASS": 9,
+                "POP_SQMI": 1839.0999999999999,
+                "SQMI": 249.83000000000001,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3987,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89760285799997,
+                    47.036312552000027
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3987,
+                "NAME": "Olympia",
+                "CLASS": "city",
+                "STATE_ABBR": "WA",
+                "STATE_FIPS": "53",
+                "PLACE_FIPS": "5351300",
+                "POPULATION": 55605,
+                "POP_CLASS": 7,
+                "POP_SQMI": 2987.9000000000001,
+                "SQMI": 18.609999999999999,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4002,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.32016021499999,
+                    47.591460625000082
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4002,
+                "NAME": "Seattle",
+                "CLASS": "city",
+                "STATE_ABBR": "WA",
+                "STATE_FIPS": "53",
+                "PLACE_FIPS": "5363000",
+                "POPULATION": 737015,
+                "POP_CLASS": 10,
+                "POP_SQMI": 8741.7000000000007,
+                "SQMI": 84.310000000000002,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4029,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.629529515999934,
+                    38.349470064000059
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4029,
+                "NAME": "Charleston",
+                "CLASS": "city",
+                "STATE_ABBR": "WV",
+                "STATE_FIPS": "54",
+                "PLACE_FIPS": "5414600",
+                "POPULATION": 48864,
+                "POP_CLASS": 6,
+                "POP_SQMI": 1497.0999999999999,
+                "SQMI": 32.640000000000001,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4077,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.392998379999938,
+                    43.080719736000049
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4077,
+                "NAME": "Madison",
+                "CLASS": "city",
+                "STATE_ABBR": "WI",
+                "STATE_FIPS": "55",
+                "PLACE_FIPS": "5548000",
+                "POPULATION": 269840,
+                "POP_CLASS": 9,
+                "POP_SQMI": 2672.5,
+                "SQMI": 100.97,
+                "CAPITAL": "State"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4086,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.906919266999978,
+                    43.040427068000042
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4086,
+                "NAME": "Milwaukee",
+                "CLASS": "city",
+                "STATE_ABBR": "WI",
+                "STATE_FIPS": "55",
+                "PLACE_FIPS": "5553000",
+                "POPULATION": 577222,
+                "POP_CLASS": 10,
+                "POP_SQMI": 5990.3000000000002,
+                "SQMI": 96.359999999999999,
+                "CAPITAL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.79986745999997,
+                    41.150373324000043
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4129,
+                "NAME": "Cheyenne",
+                "CLASS": "city",
+                "STATE_ABBR": "WY",
+                "STATE_FIPS": "56",
+                "PLACE_FIPS": "5613900",
+                "POPULATION": 65132,
+                "POP_CLASS": 7,
+                "POP_SQMI": 2012.0999999999999,
+                "SQMI": 32.369999999999997,
+                "CAPITAL": "State"
+            }
+        }
+    ]
+}

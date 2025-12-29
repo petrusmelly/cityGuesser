@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS (CDN) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Style sheet     -->
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+
+    <title>City Guesser</title>
+</head>
+
+<body>
+
+    <section class="main-screen">
+
+        <section class="store panel">
+            <div id="store">
+                <h2>Spend some points to make guessing easier!</h2>
+                <h3>Be careful, your points can go <strong style="color: red;">negative!</strong></h3>
+                <ul id="storeList">
+                    <li class="storeItem" id="storeZoomOut">
+                        Ability: Temporarily scroll out one level - <span><button>1 point</button></span>
+                    </li>
+
+                    <li class="storeItem" id="storeZoomIn">
+                        Ability: Temporarily scroll in one level - <span><button>1 point</button></span>
+                    </li>
+
+                    <li class="storeItem" id="firstLetter">
+                        Buy first letter of current city - <span><button>3 points</button></span>
+                    </li>
+                </ul>
+                <span id="returnStartZoom"><button>Return to starting zoom level - Free!</button></span>
+            </div>
+
+            <div id="scoreContainer">
+                <h3 id="scoreboard">Your Score: 0</h3>
+            </div>
+        </section>
+
+        <div class="map panel" id="map"></div>
+
+        <div id="buttonContainer">
+            <button id="nextButton">Next</button>
+            <button id="prevButton">Previous</button>
+            <button id="newGameButton">New Game - New Cities! Caution: May be very challenging...</button>
+        </div>
+
+    </section>
+
+</body>
+
+
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="geoGuesser.js"></script>
+
+</html>
